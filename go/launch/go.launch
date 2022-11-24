@@ -1,0 +1,6 @@
+
+<launch>
+
+  <include file="$(find orb_slam3_ros)/launch/stage4D455CamOnly.launch"/>
+
+</launch>
